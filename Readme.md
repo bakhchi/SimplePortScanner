@@ -1,3 +1,5 @@
+# Zachary Bakhchi ECE-303 Programming Assignment 1
+# - 
 # Simple Port Scanner
 
 This is a simple port scanner written in Python that runs on the command line. It utilizes the following libraries:
