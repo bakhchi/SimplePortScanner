@@ -1,0 +1,31 @@
+Scanning 192.168.1.1 
+Port 20, is closed
+Port 21, is closed
+Port 22, is closed
+Port 23, is closed
+Port 24, is closed
+Port 25, is closed
+Scanning 192.168.1.2 
+Port 80, is closed
+Port 81, is closed
+Port 82, is closed
+Port 83, is closed
+Port 84, is closed
+Port 85, is closed
+Port 86, is closed
+Port 87, is closed
+Port 88, is closed
+Port 89, is closed
+Port 90, is closed
+Port 91, is closed
+Port 92, is closed
+Port 93, is closed
+Port 94, is closed
+Port 95, is closed
+Port 96, is closed
+Port 97, is closed
+Port 98, is closed
+Port 99, is closed
+Port 100, is closed
+Scanning 10.0.0.1 
+Port 22, is closed
